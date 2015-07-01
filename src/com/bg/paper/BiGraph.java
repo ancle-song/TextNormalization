@@ -16,6 +16,7 @@ import java.util.concurrent.ExecutionException;
 
 import com.bg.until.Until;
 
+//A implemention of "Social Text Normalization using Graph Random walks(ACL 2013)"
 //Bipartite Graph representation of words and it`s contexts
 public class BiGraph {
 	
